@@ -1,4 +1,4 @@
-# Azure DataFactory Essentials
+# Azure Data Factory Essentials and Notes
 
 ## 1. Linked Services
 Linked Services define the connection to the data sources or destinations used in the pipeline. Here's an example of creating a Linked Service for an Azure Blob Storage account:
